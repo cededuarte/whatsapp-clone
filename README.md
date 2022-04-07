@@ -7,5 +7,6 @@
 
 Credit: Clever Programmer
 
-<img src="/whatsapp1.png" alt="1" />
-<img src="/whatsapp2.png" alt="2" />
+Images:
+<img src="public/whatsapp1.png" />
+<img src="public/whatsapp2.png" />
