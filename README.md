@@ -9,5 +9,5 @@
 
 Credit: Clever Programmer (Rocking Guys)
 
-<img src="./public.whatsapp1.png" alt="1" />
-<img src="./public.whatsapp2.png" alt="1" />
+<img src="/public.whatsapp1.png" alt="1" />
+<img src="/public.whatsapp2.png" alt="2" />
