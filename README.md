@@ -1,5 +1,3 @@
-# Build a WhatsApp Clone with React JS, FireBase and Google Authentication
-
 - React js
 - Firebase Firestore Realtime DB
 - Material UI
@@ -7,7 +5,7 @@
 - React Context API
 - Google Authentication
 
-Credit: Clever Programmer (Rocking Guys)
+Credit: Clever Programmer
 
-<img src="/public.whatsapp1.png" alt="1" />
-<img src="/public.whatsapp2.png" alt="2" />
+<img src="/whatsapp1.png" alt="1" />
+<img src="/whatsapp2.png" alt="2" />
